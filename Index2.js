@@ -28,7 +28,6 @@ console.log()
             ><img src='https://images.moneycontrol.com/static-mcnews/2023/01/shah-rukh-khan-in-pathaan-770x433.jpg?impolicy=website&width=770&height=431' width={150} height={100} ></img>
             
               <div style={{ fontSize: 20, color: 'white' }}>{dataObj.show.name}</div>
-              <ul><li><Link to="/">home</Link></li></ul>
              <button style={{backgroundColor: 'white',width:'100px',height:'26px',border:'none' ,color:'black'}}>More Info</button>
             </div> 
           );  
